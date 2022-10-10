@@ -11,6 +11,4 @@ function MyApp({ Component, pageProps }) {
   );
 }
 
-console.log(a);
-
 export default MyApp;
